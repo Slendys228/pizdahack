@@ -1,0 +1,24 @@
+{
+    "Addresses": {
+      "JumpAddress": 25701424,
+      "AttackAddress": 25700128
+    },
+    "Offsets": {
+      "dwLocalPlayerPawn": 25730848,
+      "dwViewAngles": 27966016,
+      "DwEntityList": 27482544,
+      "M_pCameraServices": 4576,
+      "M_iFOV": 528,
+      "M_bIsScoped": 9192,
+      "M_iIDEntIndex": 5208,
+      "M_iTeamNum": 995,
+      "M_flFlashBangTime": 5112,
+      "M_iszPlayerName": 1632,
+      "M_iHealth": 836,
+      "M_hPlayerPawn": 2060,
+      "M_OldOrigin": 4900,
+      "M_vecViewOffset": 3248,
+      "M_lifeState": 840
+    }
+  }
+  
