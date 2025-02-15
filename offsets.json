@@ -19,7 +19,9 @@
       "M_hPlayerPawn": 2060,
       "M_OldOrigin": 4900,
       "M_vecViewOffset": 3248,
-      "M_lifeState": 840
+      "M_lifeState": 840,
+      "M_modelState": 368,
+      "M_pGameSceneNode": 808
     },
     "Other":{
       "Version": 2
