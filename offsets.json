@@ -21,7 +21,8 @@
       "M_vecViewOffset": 3248,
       "M_lifeState": 840,
       "M_modelState": 368,
-      "M_pGameSceneNode": 808
+      "M_pGameSceneNode": 808,
+      "M_entitySpottedState": 9168
     },
     "Other":{
       "Version": 3
