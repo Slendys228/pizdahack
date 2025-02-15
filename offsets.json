@@ -6,6 +6,7 @@
     "Offsets": {
       "dwLocalPlayerPawn": 25730848,
       "dwViewAngles": 27966016,
+      "dwViewMatrix": 27924400,
       "DwEntityList": 27482544,
       "M_pCameraServices": 4576,
       "M_iFOV": 528,
