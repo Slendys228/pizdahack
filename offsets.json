@@ -22,7 +22,8 @@
       "M_lifeState": 840,
       "M_modelState": 368,
       "M_pGameSceneNode": 808,
-      "M_entitySpottedState": 9168
+      "M_entitySpottedState": 9168,
+      "M_bSpotted": 8
     },
     "Other":{
       "Version": 3
