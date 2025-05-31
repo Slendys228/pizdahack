@@ -1,13 +1,13 @@
 {
     "Addresses": {
-      "JumpAddress": 225476608,
-      "AttackAddress": 25475312
+      "JumpAddress": 25480704,
+      "AttackAddress": 25479408
     },
     "Offsets": {
-      "dwLocalPlayerPawn": 25506000,
-      "dwViewAngles": 27730832,
-      "dwViewMatrix": 27688864,
-      "DwEntityList": 27258424,
+      "dwLocalPlayerPawn": 25510096,
+      "dwViewAngles": 27734976,
+      "dwViewMatrix": 27693008,
+      "DwEntityList": 27262536,
       "M_pCameraServices": 4576,
       "M_iFOV": 528,
       "M_bIsScoped": 9192,
@@ -26,7 +26,7 @@
       "M_bSpotted": 8
     },
     "Other":{
-      "Version": 4
+      "Version": 5
     }
   }
   
